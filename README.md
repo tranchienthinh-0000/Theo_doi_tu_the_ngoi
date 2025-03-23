@@ -86,7 +86,7 @@ Chỉ số webcam: Nếu webcam không hoạt động với chỉ số 0, thử 
 Độ trễ âm thanh: Thời gian chờ giữa các cảnh báo âm thanh là 3 giây (có thể điều chỉnh trong ALERT_COOLDOWN).
 Kích thước khung hình: Mặc định là 1280x720 (có thể chỉnh trong FRAME_SIZE).
 FPS mục tiêu: 15 khung hình/giây (có thể chỉnh trong TARGET_FPS).
-📰 Poster
+<h1>📰 Poster</h1>
 <p align="center"> <img src="images/PosterTuThe.PNG" alt="Project Poster" width="800"/> </p>
 <h1>🤝 Đóng góp</h1>
 Dự án được phát triển bởi nhóm sinh viên:
