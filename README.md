@@ -1,4 +1,4 @@
-<h1 align="center">ỨNG DỤNG THEO DÕI TƯ THẾ NGỒI</h1> <div align="center"> <p align="center"> <img src="img/DAINAM.png" alt="DaiNam University Logo" width="200"/> </p>
+<h1 align="center">ỨNG DỤNG THEO DÕI TƯ THẾ NGỒI</h1> <div align="center"> <p align="center"> <img src="img/DAINAM.png" alt="DaiNam University Logo" width="500"/> </p>
 
 
 
@@ -31,7 +31,6 @@
 🔌 Phần cứng
 Webcam (Elgato Cam hoặc bất kỳ webcam nào tương thích qua USB).
 Máy tính có khả năng xử lý video thời gian thực.<br>
-
 💻 Phần mềm
 🐍 Python 3+
 Font chữ arial.ttf (có sẵn trong hệ điều hành Windows hoặc tải thêm nếu cần).
@@ -95,5 +94,5 @@ Họ và Tên
 [TRẦN CHIẾN THỊNH]<br>
 [NGUYỄN MINH QUÂN]	<br>
 [TRẦN PHƯƠNG ANH]	<br>
-[CHU BÁ KHÁNH]	
+[CHU BÁ KHÁNH]	<br>
 © 2025 NHÓM 1, CNTT16-05, TRƯỜNG ĐẠI HỌC ĐẠI NAM
