@@ -92,7 +92,7 @@ FPS mục tiêu: 15 khung hình/giây (có thể chỉnh trong TARGET_FPS).
 Dự án được phát triển bởi nhóm sinh viên:
 
 Họ và Tên	
-[TRẦN CHIẾN THỊNH]	
+[TRẦN CHIẾN THỊNH]<br>
 [NGUYỄN MINH QUÂN]	
 [TRẦN PHƯƠNG ANH]	
 [CHU BÁ KHÁNH]	
