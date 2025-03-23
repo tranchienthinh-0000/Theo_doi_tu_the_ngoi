@@ -32,6 +32,10 @@
 Webcam (Elgato Cam hoặc bất kỳ webcam nào tương thích qua USB).
 Máy tính có khả năng xử lý video thời gian thực.
 
+
+
+
+ 
 💻 Phần mềm
 🐍 Python 3+
 Font chữ arial.ttf (có sẵn trong hệ điều hành Windows hoặc tải thêm nếu cần).
