@@ -22,18 +22,12 @@
 
 ├── posture_tracking.py  # Mã nguồn chính xử lý theo dõi tư thế
 
-🛠️ CÔNG NGHỆ SỬ DỤNG
+<h1>🛠️ CÔNG NGHỆ SỬ DỤNG</h1>
 <div align="center">
 📡 Phần cứng
 🖥️ Phần mềm
-
-
-
-
-
-
 </div>
-🛠️ Yêu cầu hệ thống
+<h1>🛠️ Yêu cầu hệ thống</h1>
 🔌 Phần cứng
 Webcam (Elgato Cam hoặc bất kỳ webcam nào tương thích qua USB).
 Máy tính có khả năng xử lý video thời gian thực.
@@ -45,7 +39,7 @@ Cài đặt các thư viện bằng lệnh:
 
 pip install opencv-python mediapipe numpy pillow pygame
 
-🚀 Hướng dẫn cài đặt và chạy
+<h1>🚀 Hướng dẫn cài đặt và chạy</h1>
 1️⃣ Chuẩn bị phần cứng
 
 Kết nối Elgato Cam (hoặc webcam) qua USB.
@@ -69,7 +63,7 @@ Chương trình sẽ:
 Mở cửa sổ hiển thị video từ webcam.
 Theo dõi tư thế và hiển thị góc độ các khớp cùng trạng thái tư thế.
 Phát âm thanh tương ứng khi tư thế thay đổi.
-📖 Hướng dẫn sử dụng
+<h1>📖 Hướng dẫn sử dụng</h1>
 1️⃣ Khởi động hệ thống
 
 Chạy file posture_tracking.py.
@@ -86,14 +80,14 @@ Nếu ngoài khoảng → "Tư thế ngồi sai" (màu đỏ) + âm thanh cảnh
 3️⃣ Tắt chương trình
 
 Nhấn phím q để thoát.
-⚙️ Cấu hình & Ghi chú
+<h1>⚙️ Cấu hình & Ghi chú</h1>
 Chỉ số webcam: Nếu webcam không hoạt động với chỉ số 0, thử thay đổi thành 1, 2, v.v.
 Độ trễ âm thanh: Thời gian chờ giữa các cảnh báo âm thanh là 3 giây (có thể điều chỉnh trong ALERT_COOLDOWN).
 Kích thước khung hình: Mặc định là 1280x720 (có thể chỉnh trong FRAME_SIZE).
 FPS mục tiêu: 15 khung hình/giây (có thể chỉnh trong TARGET_FPS).
 📰 Poster
 <p align="center"> <img src="images/PosterTuThe.PNG" alt="Project Poster" width="800"/> </p>
-🤝 Đóng góp
+<h1>🤝 Đóng góp</h1>
 Dự án được phát triển bởi nhóm sinh viên:
 
 Họ và Tên	Vai trò
