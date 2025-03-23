@@ -1,4 +1,4 @@
-<h1 align="center">ỨNG DỤNG THEO DÕI TƯ THẾ NGỒI</h1> <div align="center"> <p align="center"> <img src="images/logoDaiNam.png" alt="DaiNam University Logo" width="200"/> <img src="images/LogoAIoTLab.png" alt="AIoTLab Logo" width="170"/> </p>
+<h1 align="center">ỨNG DỤNG THEO DÕI TƯ THẾ NGỒI</h1> <div align="center"> <p align="center"> <img src="img/DAINAM.png" alt="DaiNam University Logo" width="200"/> </p>
 
 
 
@@ -10,7 +10,7 @@
 🔊 Thông báo âm thanh: Phát âm thanh thông báo khi tư thế đúng (tu_the_dung.mp3) hoặc sai (tu_the_sai.mp3).
 📊 Ứng dụng thực tế: Hỗ trợ cải thiện tư thế ngồi, giảm nguy cơ đau lưng hoặc các vấn đề sức khỏe liên quan.
 <h1>🏗️ HỆ THỐNG</h1>
-<p align="center"> <img src="images/QuytrinhTuThe.png" alt="System Workflow" width="800"/> </p>
+<p align="center"> <img src="img/hethong.png" alt="System Workflow" width="800"/> </p>
 📂 Cấu trúc dự án
 📦 Project
 
@@ -32,10 +32,6 @@
 Webcam (Elgato Cam hoặc bất kỳ webcam nào tương thích qua USB).
 Máy tính có khả năng xử lý video thời gian thực.
 
-
-
-
- 
 💻 Phần mềm
 🐍 Python 3+
 Font chữ arial.ttf (có sẵn trong hệ điều hành Windows hoặc tải thêm nếu cần).
@@ -91,13 +87,13 @@ Chỉ số webcam: Nếu webcam không hoạt động với chỉ số 0, thử 
 Kích thước khung hình: Mặc định là 1280x720 (có thể chỉnh trong FRAME_SIZE).
 FPS mục tiêu: 15 khung hình/giây (có thể chỉnh trong TARGET_FPS).
 <h1>📰 Poster</h1>
-<p align="center"> <img src="images/PosterTuThe.PNG" alt="Project Poster" width="800"/> </p>
+<p align="center"> <img src="img/poster.jpg" alt="Project Poster" width="800"/> </p>
 <h1>🤝 Đóng góp</h1>
 Dự án được phát triển bởi nhóm sinh viên:
 
-Họ và Tên	Vai trò
-[Tên bạn]	Phát triển mã nguồn, kiểm thử, triển khai dự án.
-[Tên thành viên 2]	Thiết kế tài liệu, poster, hỗ trợ kiểm thử.
-[Tên thành viên 3]	Hỗ trợ phát triển, tài liệu hóa.
-[Tên thành viên 4]	Hỗ trợ kiểm thử, trình bày.
-© 2025 NHÓM [SỐ NHÓM], CNTT16-03, TRƯỜNG ĐẠI HỌC ĐẠI NAM
+Họ và Tên	
+[TRẦN CHIẾN THỊNH]	
+[NGUYỄN MINH QUÂN]	
+[TRẦN PHƯƠNG ANH]	
+[CHU BÁ KHÁNH]	
+© 2025 NHÓM 1, CNTT16-05, TRƯỜNG ĐẠI HỌC ĐẠI NAM
