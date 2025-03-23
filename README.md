@@ -4,7 +4,7 @@
 
 
 </div> <h2 align="center">Hệ thống theo dõi tư thế ngồi sử dụng thị giác máy tính</h2> <p align="left"> Hệ thống theo dõi tư thế ngồi là một dự án sử dụng công nghệ thị giác máy tính (OpenCV, MediaPipe) để phát hiện và đánh giá tư thế ngồi của người dùng thông qua webcam (Elgato Cam hoặc webcam thông thường). Dự án phân tích các góc cơ thể (cổ-vai, lưng-đùi, đầu gối) để xác định tư thế ngồi đúng hoặc sai, đồng thời cung cấp phản hồi bằng âm thanh và hiển thị trực quan trên giao diện. </p>
-<h1 >GIỚI THIỆU 🌟</h1>
+<h1 > 🌟 GIỚI THIỆU </h1>
 📌 Phát hiện tư thế tự động: Hệ thống sử dụng webcam để theo dõi tư thế ngồi theo thời gian thực.
 💡 Phản hồi trực quan: Hiển thị góc độ các khớp cơ thể và trạng thái tư thế (đúng/sai) trên giao diện.
 🔊 Thông báo âm thanh: Phát âm thanh thông báo khi tư thế đúng (tu_the_dung.mp3) hoặc sai (tu_the_sai.mp3).
